@@ -1,0 +1,14 @@
+typescript
+jquery
+docker
+php
+react
+c#
+mongodb
+copilot
+chatgpt
+electron
+yarn
+svn
+unity
+webpack

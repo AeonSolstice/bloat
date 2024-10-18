@@ -13,3 +13,16 @@ svn
 unity
 webpack
 jsx
+java (outside of android)
+scala
+dart
+haxe
+lisp
+nim
+perl
+swift
+tcl
+tk
+.net
+ocaml
+xml

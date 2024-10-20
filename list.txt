@@ -28,3 +28,4 @@ ocaml
 xml
 wasm-pack
 wasm-bindgen
+wordpress

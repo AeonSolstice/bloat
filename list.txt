@@ -29,3 +29,5 @@ xml
 wasm-pack
 wasm-bindgen
 wordpress
+c++
+llvm

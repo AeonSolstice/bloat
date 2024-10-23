@@ -8,6 +8,7 @@ mongodb
 copilot
 chatgpt
 electron
+npm
 yarn
 svn
 unity
@@ -26,6 +27,8 @@ tk
 .net
 ocaml
 xml
+deno
+bun
 wasm-pack
 wasm-bindgen
 wordpress

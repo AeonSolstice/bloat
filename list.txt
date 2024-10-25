@@ -15,6 +15,7 @@ unity
 webpack
 jsx
 java (outside of android)
+gradle
 scala
 dart
 haxe

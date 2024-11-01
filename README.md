@@ -14,11 +14,13 @@ If you use or interact with anything on this list, you are a bad programmer. You
 * deno
 * docker
 * electron
+* glibc
 * gradle
 * haxe
 * java (outside of android)
 * jquery
 * jsx
+* libc
 * lisp
 * llvm
 * mongodb

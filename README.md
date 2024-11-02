@@ -29,6 +29,7 @@ If you use or interact with anything on this list, you are a bad programmer. You
 * ocaml
 * perl
 * php
+* python
 * react
 * scala
 * svn

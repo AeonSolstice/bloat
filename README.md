@@ -23,6 +23,7 @@ If you use or interact with anything on this list, you are a bad programmer. You
 * libc
 * lisp
 * llvm
+* mojo
 * mongodb
 * nim
 * npm

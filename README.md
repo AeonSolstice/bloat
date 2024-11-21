@@ -5,6 +5,9 @@ If you use or interact with anything on this list, you are a bad programmer. You
 ---
 
 * .net
+* alpinejs
+* angular
+* backbonejs
 * bun
 * c#
 * c++
@@ -14,6 +17,7 @@ If you use or interact with anything on this list, you are a bad programmer. You
 * deno
 * docker
 * electron
+* emberjs
 * glibc
 * gradle
 * haxe
@@ -25,20 +29,24 @@ If you use or interact with anything on this list, you are a bad programmer. You
 * llvm
 * mojo
 * mongodb
+* nextjs
 * nim
 * npm
 * ocaml
 * perl
 * php
+* preact
 * python
 * react
 * scala
+* svelte
 * svn
 * swift
 * tcl
 * tk
 * typescript
 * unity
+* vuejs
 * wasm-bindgen
 * wasm-pack
 * webpack

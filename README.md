@@ -30,6 +30,7 @@ If you use or interact with anything on this list, you are a bad programmer. You
 * mojo
 * mongodb
 * nextjs
+* nginx
 * nim
 * npm
 * ocaml

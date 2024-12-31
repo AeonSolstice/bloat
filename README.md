@@ -39,7 +39,9 @@ If you use or interact with anything on this list, you are a bad programmer. You
 * preact
 * python
 * react
+* rust
 * scala
+* serde
 * svelte
 * svn
 * swift
@@ -54,3 +56,4 @@ If you use or interact with anything on this list, you are a bad programmer. You
 * wordpress
 * xml
 * yarn
+* zig

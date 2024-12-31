@@ -1,5 +1,3 @@
-No place in the modern world.
-
 If you use or interact with anything on this list, you are a bad programmer. You might write good code, but you are not a good programmer. However, not using or interacting with anything on this list does not automatically make you a good programmer, even if you write good code.
 
 ---
